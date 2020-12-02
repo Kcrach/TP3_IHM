@@ -1,0 +1,9 @@
+Q0 : La technique d'interaction choisie va permettre de faire apprendre plus ou moins facilement
+les raccourcis clavier à l'utilisateur. Par exemple, ici on peut voir que la technique traditionnel,
+c'est à dire, afficher les raccourcis dans le menu, ne permet pas, dans la majorité des cas à 
+l'utilisateur d'apprendre les raccourcis, car il va toujours dans le menu pour sélectionner les actions.
+Par exemple, l'utilisateur 1 et 3 n'utilise jamais les raccourcis clavier, cependant, l'utilisateur 9 apprend
+à les utiliser. En revanche, la technique audio, c'est à dire, dire les raccourcis clavier au moment d'une action
+fonctionne bien car tout les utilisateurs confrontés à cette technique apprennent les raccourcis.
+
+Q1: 
