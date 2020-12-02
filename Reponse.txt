@@ -6,4 +6,7 @@ Par exemple, l'utilisateur 1 et 3 n'utilise jamais les raccourcis clavier, cepen
 à les utiliser. En revanche, la technique audio, c'est à dire, dire les raccourcis clavier au moment d'une action
 fonctionne bien car tout les utilisateurs confrontés à cette technique apprennent les raccourcis.
 
-Q1: 
+Q1: Ce qu'il manque sur cette première visualisation est le type de commande effectué. En effet, avoir le type
+de commande permettrait de savoir lesquelles sont utilisées fréquemment (ou non), et par conséquent, de savoir
+si l'apprentissage est lié à cette fréquence. Par exemple, si l'utilisateur utilise une commande fréquemment, 
+aura-t-il tendance à apprendre plus rapidement le raccourci ?
