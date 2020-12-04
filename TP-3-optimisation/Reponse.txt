@@ -18,3 +18,22 @@ Q3 : Le meilleure modèle semble être le modèle CK pour tout les participants 
 technique traditionnel permettant d'obtenir de meilleur résultat que la technique audio). On le voit car les barres
 pour le modèle CK sont plus basses que les barres pour le modèle aléatoire (l'axe des y étant le négatif du logarithme
 de ll(m,p)).
+
+Q4 : Pour le modèle CK, la vraisemblance a fortement augmentée (les barres sont plus petites) alors que pour le modèle
+aléatoire, la vraisemblance à peu (voir pas du tout) augmentée. Le modèle CK confirme le fait qu'il reste le meilleur
+modèle pour tout les utilisateurs et pour toutes les techniques.
+
+Q5 : Pour la technique traditionnelle, le meilleur modèle semble être le modèle aléatoire, en effet, sur l'ensemble des tests
+que nous avons effectués, le modèle aléatoire était toujours le plus proche, contrairement au modèle CK qui, parfois, était
+vraiment éloignés. Concernant la technique audio, les 2 semblent plutôt éloignés des observations faites, néanmoins, le
+modèle aléatoire reste le plus proche.
+
+Q6 : Comme dit précemment, le constat que nous avons fait est que les 2 modèles sont plutôt bons pour la technique
+traditionnelle, en revanche, ils sont beaucoup moins bons pour la technique audio.
+
+Q7 : Au niveau de la vraisemblance, nous obtenons à peu près les mêmes résultats avec le modèle RW et le modèle CK.
+Au niveau des simulations, nous pouvons remarquer que le modèle RW se rapproche plus des observations. Nous pouvons 
+donc en déduire que le fait d'instaurer la notion de récompense dans le modèle est une bonne idée, en effet, si une 
+action est bénéfique (dans ce cas là, le bénéfice correspond au gain de temps) alors l'utilisateur va apprendre de sa 
+récompense et aura plus tendance à la reproduire par la suite pour réobtenir cette récompense (utilisation des raccourcis
+clavier), donc le modèle RW est meilleur.

@@ -1,0 +1,2 @@
+model,user_id,technique,parameter,value,freedom,log_likelihood,n_observations,n_parameters,BIC
+RW,9,,none,0.0,-1,0.0,0,2,-inf
